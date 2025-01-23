@@ -31,6 +31,11 @@
     max-height: 360px; 
 }
 
+.thumbnail3 img{
+	height: 330px; 
+	width: 575px;
+}
+
 main {
     min-height: 100vh;
 }
